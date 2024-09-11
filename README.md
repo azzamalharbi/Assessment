@@ -1,4 +1,5 @@
 # Assessment
-this is a test
-![Uploading image.png…]()
-![image](https://github.com/user-attachments/assets/3aa07912-ed0f-45b2-872e-8a0ace83c112)
+  ![image](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Module2/images/SN_web_lightmode.png)
+
+### This is a screenshot of my work:
+![image](https://raw.githubusercontent.com/azzamalharbi/Assessment/main/a%20screenshot%20of%20my%20work.png)
